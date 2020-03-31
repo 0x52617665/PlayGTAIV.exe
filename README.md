@@ -1,6 +1,6 @@
 # PlayGTAIV
 
-This simple utility is a drop in replacement of `PlayGTAIV.exe` for use with copies of new steam version of GTAIV that have been downgraded to 1.0.8.0 or below.
+This utility is a drop in replacement of `PlayGTAIV.exe` for use with Steam copies of GTAIV that have been downgraded to 1.0.8.0 or below.
 
 ## Prerequisites
 
