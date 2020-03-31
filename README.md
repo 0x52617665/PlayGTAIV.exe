@@ -8,4 +8,4 @@ A cracked `LaunchGTAIV.exe` located in the GTAIV game directory is required as s
 
 ## Installation
 
-Download [PlayGTAIV.exe](https://github.com/jfoster/PlayGTAIV/releases) and drop it into your GTAIV game directory alongside `LaunchGTAIV.exe`.
+Download [PlayGTAIV.exe](https://github.com/jfoster/PlayGTAIV/releases) and drop it into your GTAIV game directory alongside `LaunchGTAIV.exe` overwriting the existing `PlayGTAIV.exe`.
